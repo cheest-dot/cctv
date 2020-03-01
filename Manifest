@@ -1,0 +1,5 @@
+{
+	"id": "cctv",
+	"display": { "name": "cctv", "icon": "resources/icon.png" },
+	"application": { }
+}
